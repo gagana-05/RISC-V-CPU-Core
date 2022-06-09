@@ -5,6 +5,7 @@ The processor has a support of base integer RV32I instruction format written in 
 
 # RISC-V Overview
 RISC-V (pronounced "risk-five") is an open standard instruction set architecture (ISA) based on established RISC principles.Unlike most other ISA designs, RISC-V is provided under open source licenses that do not require fees to use. RISC-V is also popular for it's simplicity and extensibility and infact RISC stands for Reduced Instruction Set Architecture.
+</br>
 It contains 32 registers and most instructions are read from or written to the register file. RISC-V is based on load-store architecture as load and store instructions tranfers between register file and the memory.
 
 # ISA
