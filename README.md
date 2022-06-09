@@ -1,4 +1,4 @@
-# RISC-V-CPU-Core-
+# RISC-V-CPU-Core
 This repo contains the codes which I implemented while completing the course "Building a RISC-V CPU Core"  offered by Linux Foundation through edx.
 The processor has a support of base integer RV32I instruction format written in TL- Verilog on Makerchip platform.
 
