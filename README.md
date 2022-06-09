@@ -8,6 +8,9 @@ RISC-V (pronounced "risk-five") is an open standard instruction set architecture
 </br>
 It contains 32 registers and most instructions are read from or written to the register file. RISC-V is based on load-store architecture as load and store instructions tranfers between register file and the memory.
 
+# RISC-V CPU Diagram
+![image](https://user-images.githubusercontent.com/82756709/172920290-20b4c0a4-c2fc-4b38-afae-0b401f97c8d1.png)
+
 # ISA
 ![image](https://user-images.githubusercontent.com/82756709/172918157-45de79f7-dd01-4b97-84a6-2f25db40ed17.png)
 
@@ -20,6 +23,3 @@ Some instructions :p
 
 
 More details on 32 bit RISC-V ISA can be found [here](https://inst.eecs.berkeley.edu/~cs61c/resources/su18_lec/Lecture7.pdf)
-
-# RISC-V CPU Diagram
-![image](https://user-images.githubusercontent.com/82756709/172920290-20b4c0a4-c2fc-4b38-afae-0b401f97c8d1.png)
